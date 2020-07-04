@@ -19,4 +19,8 @@ public class App {
                 return instance;
         }
 
+        public static void main(String[] args) {
+                System.out.println("Hello Word");
+        }
+
 }
